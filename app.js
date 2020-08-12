@@ -3,15 +3,15 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyAjePg6X1BMu6nlFDCQgsv1tgdi59Vj6L8",
+  authDomain: "the-wing-ngo.firebaseapp.com",
+  databaseURL: "https://the-wing-ngo.firebaseio.com",
+  projectId: "the-wing-ngo",
+  storageBucket: "the-wing-ngo.appspot.com",
+  messagingSenderId: "978131684012",
+  appId: "1:978131684012:web:da2e7d7f4ddc75ee95ad09",
+  measurementId: "G-HVKCNJKCY8"
 };
 
      
